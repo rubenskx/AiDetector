@@ -15,3 +15,6 @@ For mobile app, run the following command and scan the QR code to view the app o
 ```bash
 npx expo start
 ```
+| Home Screen | Uploading Image | Result Screen |
+| :-------- |  :--------------| :---------------|
+| ![App Screenshot](https://github.com/rubenskx/AiDetector/blob/main/Screenshot_1722867972.png) | ![App Screenshot](https://github.com/rubenskx/AiDetector/blob/main/Screenshot_1722868198.png) | ![App Screenshot](https://github.com/rubenskx/AiDetector/blob/main/Screenshot_1722868313.png) |
