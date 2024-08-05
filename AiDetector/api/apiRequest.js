@@ -2,7 +2,7 @@ import axios from "axios";
 export const getPrediction = async (data) => {
   let resObj = {};
   try {
-    const response = await axios.post(`http://10.0.2.2:5000/uplad`, data, {
+    const response = await axios.post(`http://10.0.2.2:5000/upload`, data, {
       headers: {
         "Content-Type": "multipart/form-data",
       },
